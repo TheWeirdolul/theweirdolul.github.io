@@ -1,0 +1,131 @@
+{
+    "name": "Vendettahub",
+    "description": "A (semi)original theme for Vendetta",
+    "authors": [
+        {
+            "name": "TheWeirdo",
+            "id": "559126592501055489"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#000"
+        ],
+        "HEADER_SECONDARY": [
+            "#000"
+        ],
+        "TEXT_NORMAL": [
+            "#fff"
+        ],
+        "TEXT_MUTED": [
+            "##565656"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FF4500"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#7a2f00"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FF4500"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#7a2f00"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#ff4500"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#ff4500"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#ff4500"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#ff4500"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#ff4500"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#7a2f00"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#7a2f00"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#ff4500"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ff4500"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#ff4500"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#ff4500"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#ff4500"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#000"
+        ],
+        "TEXT_LINK": [
+            "#ff4500"
+        ],
+        "TEXT_DANGER": [
+            "#ff4500"
+        ],
+        "KEYBOARD": [
+            "#000"
+        ],
+        "CHANNEL_ICON": [
+            "#fff"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#000",
+        "PRIMARY_200": "#000",
+        "PRIMARY_300": "ff4500",
+        "PRIMARY_360": "#ff4500",
+        "PRIMARY_400": "#ff4500",
+        "PRIMARY_600": "#ff4500",
+        "PRIMARY_630": "#000",
+        "PRIMARY_660": "#000",
+        "PRIMARY_700": "#000",
+        "PRIMARY_800": "#000",
+        "BRAND_260": "#ff4500",
+        "BRAND_360": "#ff4500",
+        "BRAND_500": "#ff4500",
+        "BRAND_560": "#ff4500",
+        "WHITE_500": "#fff",
+        "GREEN_360": "#ff4500"
+    },
+    "spec": 2
+}
