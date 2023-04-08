@@ -1,0 +1,115 @@
+{
+    "name": "Vendettahub",
+    "description": "A dark orange theme",
+    "authors": [
+        {
+            "name": "TheWeirdo",
+            "id": "559126592501055489"
+        }
+    ],
+    "semanticColors": {
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1a0700"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0f0f0f"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1a0700"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2e0c00"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT" [
+            "#ff4500"
+        ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+            "#66d9ef"
+        ],
+        "HEADER_PRIMARY": [
+            "#f2f2f2"
+        ],
+        "HEADER_SECONDARY": [
+            "#dddddd"
+        ],
+        "TEXT_NORMAL": [
+            "#f2f2f2"
+        ],
+        "TEXT_LINK": [
+            "#56adbc"
+        ],
+        "TEXT_BRAND": [
+            "#ff4500"
+        ],
+        "CONTROL_BRAND_FOREGROUND": [
+            "#ff4500"
+        ],
+        "CHANNEL_ICON": [
+            "#666666"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#666666"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#1a0700"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ff4500"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_600": "#000000",
+        "PRIMARY_500": "#000000",
+        "BRAND_100": "#ff4500",
+        "BRAND_130": "#f84300",
+        "BRAND_160": "#f24100",
+        "BRAND_200": "#eb4000",
+        "BRAND_230": "#e53e00",
+        "BRAND_260": "#de3c00",
+        "BRAND_300": "#d83a00",
+        "BRAND_330": "#d13900",
+        "BRAND_345": "#cb3700",
+        "BRAND_360": "#c43500",
+        "BRAND_400": "#be3300",
+        "BRAND_430": "#b73200",
+        "BRAND_460": "#b13000",
+        "BRAND_500": "#aa2e00",
+        "BRAND_530": "#a32c00",
+        "BRAND_560": "#9d2a00",
+        "BRAND_600": "#962900",
+        "BRAND_630": "#902700",
+        "BRAND_660": "#892500",
+        "BRAND_700": "#832300",
+        "BRAND_730": "#7c2200",
+        "BRAND_760": "#762000",
+        "BRAND_800": "#6f1e00",
+        "BRAND_830": "#621b00",
+        "BRAND_860": "#411200",
+        "BRAND_900": "#0d0400",
+        "YELLOW_300": "#ff4500",
+        "RED_400": "#ff4500",
+        "GREEN_360": "#86b42b"
+    },
+    "spec": 2
+}
