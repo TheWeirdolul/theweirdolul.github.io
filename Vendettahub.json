@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ff4500"
+            "#000"
         ],
         "HEADER_SECONDARY": [
             "#ff4500"
@@ -18,7 +18,7 @@
             "#fff"
         ],
         "TEXT_MUTED": [
-            "##565656"
+            "#565656"
         ],
         "INTERACTIVE_NORMAL": [
             "#FF4500"
@@ -91,13 +91,13 @@
             "#000"
         ],
         "CHANNELS_DEFAULT": [
-            "#ff4500"
+            "#000"
         ],
         "TEXT_LINK": [
             "#ff4500"
         ],
         "TEXT_DANGER": [
-            "#ff4500"
+            "#fff"
         ],
         "KEYBOARD": [
             "#000"
