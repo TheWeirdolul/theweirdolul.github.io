@@ -21,7 +21,7 @@
             "#1a0700"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0f0f0f"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
             "#0f0f0f"
@@ -37,6 +37,12 @@
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#2e0c00"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT" [
+            "#ff4500"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
             "#66d9ef"
@@ -66,10 +72,10 @@
             "#666666"
         ],
         "INTERACTIVE_NORMAL": [
-            "#666666"
+            "#1a0700"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f2f2f2"
+            "#ff4500"
         ]
     },
     "rawColors": {
