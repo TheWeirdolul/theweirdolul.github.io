@@ -1,131 +1,112 @@
 {
-    "name": "Vendettahub",
-    "description": "A (semi)original theme for Vendetta",
+    "name": "Monokai Night",
+    "description": "A dark and minimalistic theme based on the Monokai-inspired Visual Studio Code theme, Monokai Night.",
     "authors": [
         {
-            "name": "TheWeirdo",
-            "id": "559126592501055489"
+            "name": "Fiery",
+            "id": "890228870559698955"
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#000"
-        ],
-        "HEADER_SECONDARY": [
-            "#ff4500"
-        ],
-        "TEXT_NORMAL": [
-            "#fff"
-        ],
-        "TEXT_MUTED": [
-            "#565656"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#FF4500"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#7a2f00"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#FF4500"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#7a2f00"
+        "CHAT_BACKGROUND": [
+            "#1f1f1f"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000"
+            "#1f1f1f"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000"
+            "#161616"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000"
+            "#262626"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#ff4500"
+            "#0f0f0f"
         ],
         "BACKGROUND_FLOATING": [
-            "#000"
+            "#0f0f0f"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000"
+            "#1f1f1f"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000"
+            "#161616"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#7a2f00"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#7a2f00"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#7a2f00"
+            "#161616"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
+            "#262626"
+        ],
+        "BACKGROUND_MENTIONED": [
             "#ff4500"
         ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#ff4500"
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+            "#66d9ef"
         ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#ff4500"
+        "HEADER_PRIMARY": [
+            "#f2f2f2"
         ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+        "HEADER_SECONDARY": [
+            "#dddddd"
         ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#ff4500"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#ff4500"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#000"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#000"
+        "TEXT_NORMAL": [
+            "#f2f2f2"
         ],
         "TEXT_LINK": [
+            "#56adbc"
+        ],
+        "TEXT_BRAND": [
             "#ff4500"
         ],
-        "TEXT_DANGER": [
-            "#fff"
-        ],
-        "KEYBOARD": [
-            "#000"
+        "CONTROL_BRAND_FOREGROUND": [
+            "#ff4500"
         ],
         "CHANNEL_ICON": [
-            "#fff"
+            "#666666"
         ],
-        "CHAT_BACKGROUND": [
-            "#000"
+        "CHANNELS_DEFAULT": [
+            "#666666"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#666666"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f2f2f2"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#000",
-        "PRIMARY_200": "#000",
-        "PRIMARY_300": "#ff4500",
-        "PRIMARY_360": "#ff4500",
-        "PRIMARY_400": "#ff4500",
-        "PRIMARY_600": "#ff4500",
-        "PRIMARY_630": "#000",
-        "PRIMARY_660": "#000",
-        "PRIMARY_700": "#000",
-        "PRIMARY_800": "#000",
-        "BRAND_260": "#ff4500",
-        "BRAND_360": "#ff4500",
-        "BRAND_500": "#ff4500",
-        "BRAND_560": "#ff4500",
-        "WHITE_500": "#fff",
-        "GREEN_360": "#ff4500"
+        "PRIMARY_600": "#1f1f1f",
+        "PRIMARY_500": "#363636",
+        "BRAND_100": "#ff4500",
+        "BRAND_130": "#f84300",
+        "BRAND_160": "#f24100",
+        "BRAND_200": "#eb4000",
+        "BRAND_230": "#e53e00",
+        "BRAND_260": "#de3c00",
+        "BRAND_300": "#d83a00",
+        "BRAND_330": "#d13900",
+        "BRAND_345": "#cb3700",
+        "BRAND_360": "#c43500",
+        "BRAND_400": "#be3300",
+        "BRAND_430": "#b73200",
+        "BRAND_460": "#b13000",
+        "BRAND_500": "#aa2e00",
+        "BRAND_530": "#a32c00",
+        "BRAND_560": "#9d2a00",
+        "BRAND_600": "#962900",
+        "BRAND_630": "#902700",
+        "BRAND_660": "#892500",
+        "BRAND_700": "#832300",
+        "BRAND_730": "#7c2200",
+        "BRAND_760": "#762000",
+        "BRAND_800": "#6f1e00",
+        "BRAND_830": "#621b00",
+        "BRAND_860": "#411200",
+        "BRAND_900": "#0d0400",
+        "YELLOW_300": "#ff4500",
+        "RED_400": "#ff4500",
+        "GREEN_360": "#86b42b"
     },
     "spec": 2
 }
