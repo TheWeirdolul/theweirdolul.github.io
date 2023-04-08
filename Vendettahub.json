@@ -1,10 +1,10 @@
 {
-    "name": "Monokai Night",
-    "description": "A dark and minimalistic theme based on the Monokai-inspired Visual Studio Code theme, Monokai Night.",
+    "name": "Vendettahub",
+    "description": "A dark orange theme",
     "authors": [
         {
-            "name": "Fiery",
-            "id": "890228870559698955"
+            "name": "TheWeirdo",
+            "id": "559126592501055489"
         }
     ],
     "semanticColors": {
