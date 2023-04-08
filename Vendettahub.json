@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "CHAT_BACKGROUND": [
-            "#1f1f1f"
+            "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1f1f1f"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
             "#161616"
@@ -27,19 +27,16 @@
             "#0f0f0f"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1f1f1f"
+            "#210900"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#161616"
+            "#1a0700"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#161616"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#262626"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#ff4500"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
             "#66d9ef"
